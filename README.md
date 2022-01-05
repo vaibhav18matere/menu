@@ -1,3 +1,3 @@
 # menu
-- Technoloy used : HTML, CSS< React.JS
-- - Live project link : 
+- Technoloy used : HTML, CSS, React.JS
+- Live project link : 
