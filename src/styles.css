@@ -153,6 +153,7 @@ p {
 }
 .item-info h4 {
   margin-bottom: 0.5rem;
+  color: var(--clr-primary);
 }
 .price {
   color: var(--clr-primary);
@@ -160,6 +161,7 @@ p {
 .item-text {
   margin-bottom: 0;
   padding-top: 1rem;
+  color: darkblue;
 }
 
 @media screen and (min-width: 768px) {
