@@ -6,7 +6,6 @@ import Categories from "./Categories";
 
 //to get only unique categories
 const allCategories = ["all", ...new Set(items.map((item) => item.category))];
-console.log(allCategories);
 
 export default function App() {
   const [menuItems, setMenuItems] = useState(items);
